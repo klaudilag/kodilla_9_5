@@ -3,7 +3,7 @@ package org.example;
 import java.util.Objects;
 
 public class Airport {
-    String name;
+    private String name;
 
     public Airport(String name) {
         this.name = name;

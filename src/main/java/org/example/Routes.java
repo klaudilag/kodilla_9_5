@@ -1,8 +1,8 @@
 package org.example;
 
 public class Routes {
-    Airport Departure;
-    Airport Destination;
+    private Airport Departure;
+    private Airport Destination;
 
     public Routes(Airport departure, Airport destination) {
         Departure = departure;
